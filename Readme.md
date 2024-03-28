@@ -15,7 +15,7 @@ Suba tudo em um repositório e faça a entrega.
 
 * A linguagem de programação para este desafio é Node/JavaScript.
 
-## Image link
+## Container link
 
 https://hub.docker.com/repository/docker/felipematthewdev/nginx-node-mysql/general
 
