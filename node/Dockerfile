@@ -1,11 +1,8 @@
-FROM node:15-alpine
+FROM node:15
 
 WORKDIR /usr/src/app
-
-COPY package*.json ./
-
+COPY package.json .
 RUN npm install
+COPY . .
 
-EXPOSE 8080 
-
-ENTRYPOINT [ "node", "index.js" ]
+EXPOSE 8080
