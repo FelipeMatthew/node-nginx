@@ -21,5 +21,5 @@ https://hub.docker.com/repository/docker/felipematthewdev/nginx-node-mysql/gener
 
 ## Docker Commands
 ```js
-docker push felipematthewdev/nginx-node-mysql:tagname
+docker push felipematthewdev/nginx-node-app:tagname
 ```
