@@ -17,7 +17,7 @@ Suba tudo em um repositório e faça a entrega.
 
 ## Container link
 
-https://hub.docker.com/repository/docker/felipematthewdev/nginx-node-mysql/general
+https://hub.docker.com/repository/docker/felipematthewdev/nginx-node-app/general
 
 ## Docker Commands
 ```js
