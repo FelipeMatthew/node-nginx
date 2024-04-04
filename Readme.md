@@ -17,9 +17,9 @@ Suba tudo em um repositório e faça a entrega.
 
 ## Container link
 
-https://hub.docker.com/repository/docker/felipematthewdev/nginx-node-app/general
+https://hub.docker.com/repository/docker/felipematthewdev/nginx-node-db/general
 
 ## Docker Commands
 ```js
-docker push felipematthewdev/nginx-node-app:tagname
+docker push felipematthewdev/nginx-node-db:tagname
 ```
