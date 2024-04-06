@@ -29,3 +29,5 @@ app.listen(3000, () => {
   const insertSql = `INSERT INTO people(name) VALUES ('Felipe'), ('Maria'), ('Alberto');`;
   Repository.query(insertSql);
 });
+
+// testing
